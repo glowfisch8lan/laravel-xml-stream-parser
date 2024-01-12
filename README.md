@@ -11,6 +11,6 @@ In the root directory
 
 <h2>Launch:</h2>
 In the container in the app folder:
-```shell
+````shell
 php artisan app:fetch-products {--uuid= : UUID xml file to parse} {--url= : URL to xml file}
 ```
