@@ -10,7 +10,7 @@ In the root directory
 3. php composer.phar install
 
 <h2>Launch:</h2>
-In the container in the app folder:
+In the container app folder:
 
 ````
 php artisan app:fetch-products {--uuid= : UUID xml file to parse} {--url= : URL to xml file}
